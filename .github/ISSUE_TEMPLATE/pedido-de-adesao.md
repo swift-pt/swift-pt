@@ -12,7 +12,7 @@ assignees: ''
 
 Quero aderir à Guilda Portuguesa de Programadores em Swift.
 
-Sou: (coloque um 'x' na(s) opções corretas)
+Sou: (coloque um 'x' na(s) opção(ões) correta(s))
  * [ ] Programador em Swift
  * [ ] Programador noutra(s) linguagem(ns) interessado em Swift
  * [ ] Não programador interessado em Swift
